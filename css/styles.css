@@ -19,8 +19,6 @@ body{
 #grid .grid-wrapper .grid-one{
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: center;
 }
 #grid .grid-wrapper .grid-one .grid-one-box1{
   flex:1;
@@ -58,8 +56,6 @@ body{
 #grid .grid-wrapper .grid-two{
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: center;
 }
 #grid .grid-wrapper .grid-two .grid-two-box1{
   flex:1;
@@ -90,8 +86,6 @@ body{
 #grid .grid-wrapper .grid-three{
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: center;
 }
 #grid .grid-wrapper .grid-three .grid-three-box1{
   flex:1;
@@ -137,8 +131,6 @@ body{
 #grid .grid-wrapper .grid-four{
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: center;
 }
 #grid .grid-wrapper .grid-four .grid-four-box1{
   flex:1;
@@ -195,8 +187,6 @@ body{
 #grid .grid-wrapper .grid-five{
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: center;
 }
 #grid .grid-wrapper .grid-five .grid-five-box1{
   flex:3;
@@ -235,8 +225,6 @@ body{
 #grid .grid-wrapper .grid-six{
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: center;
 }
 #grid .grid-wrapper .grid-six .grid-six-box1{
   flex:1;
